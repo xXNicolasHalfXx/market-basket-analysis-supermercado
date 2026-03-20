@@ -1,12 +1,12 @@
-# 🛒 Análise de Cestas de Compras (Market Basket Analysis)
+#  Análise de Cestas de Compras (Market Basket Analysis)
 
-## 📌 Introdução
+##  Introdução
 
 Este projeto tem como objetivo analisar o comportamento de compra de clientes de um supermercado, utilizando técnicas de Market Basket Analysis. A proposta é identificar associações entre produtos para auxiliar na tomada de decisão gerencial, visando aumentar o ticket médio, melhorar o layout da loja e otimizar estratégias promocionais.
 
 ---
 
-## ⚙️ Metodologia
+##  Metodologia
 
 Foi utilizado o algoritmo **Apriori** para identificar conjuntos frequentes de produtos no dataset. A partir desses conjuntos, foram geradas regras de associação com base nas métricas:
 
@@ -22,7 +22,7 @@ Para garantir relevância prática, foram filtradas apenas regras com:
 
 ---
 
-## 📊 Principais Resultados
+##  Principais Resultados
 
 As regras mais relevantes encontradas foram:
 
@@ -36,9 +36,9 @@ Esses resultados indicam fortes padrões de compra conjunta entre produtos alime
 
 ---
 
-## 🧠 Insights de Negócio
+##  Insights de Negócio
 
-### 🧲 Produtos âncora
+###  Produtos âncora
 
 Produtos como **refrigerante, cerveja, arroz e feijão** aparecem frequentemente nas regras, indicando que funcionam como itens centrais nas compras.
 
@@ -55,7 +55,7 @@ Produtos como **refrigerante, cerveja, arroz e feijão** aparecem frequentemente
 
 ---
 
-### 🛒 Organização do layout
+###  Organização do layout
 
 * Posicionar produtos frequentemente comprados juntos próximos nas gôndolas:
 
@@ -66,19 +66,19 @@ Produtos como **refrigerante, cerveja, arroz e feijão** aparecem frequentemente
 
 ---
 
-### ⚠️ Regras menos úteis
+###  Regras menos úteis
 
 Regras com muitos produtos foram descartadas, pois apesar de apresentarem alto valor estatístico, são pouco práticas para aplicação real no supermercado.
 
 ---
 
-## 🚀 Conclusão
+##  Conclusão
 
 A análise permitiu identificar padrões relevantes no comportamento de compra dos clientes, possibilitando a criação de estratégias mais eficientes de vendas e marketing. A aplicação dessas insights pode contribuir diretamente para o aumento do ticket médio e melhoria da experiência do cliente.
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 * `basket_supermercado_1000.csv` → Dataset utilizado
 * `notebook.ipynb` → Código da análise
