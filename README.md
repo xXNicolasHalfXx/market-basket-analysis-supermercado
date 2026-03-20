@@ -44,7 +44,7 @@ Produtos como **refrigerante, cerveja, arroz e feijão** aparecem frequentemente
 
 ---
 
-### 💸 Oportunidades de promoção
+###  Oportunidades de promoção
 
 * Criar combos promocionais como:
 
