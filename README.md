@@ -86,6 +86,8 @@ A análise permitiu identificar padrões relevantes no comportamento de compra d
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
+
+Nicolas Isaac B de Souza
 
 Projeto desenvolvido para a disciplina de Inteligência Artificial.
